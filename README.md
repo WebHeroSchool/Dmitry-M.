@@ -1,2 +1,2 @@
-# Dmitry-M.
+# NewProject
 Мой первый сайт
